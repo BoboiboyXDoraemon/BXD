@@ -5,4 +5,4 @@ app.get("/",(req,res)=>{
     res.send("Test")
 })
 
-server.listen(3000)
+app.listen(3000)
